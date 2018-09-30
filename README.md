@@ -63,9 +63,13 @@ First I do the homepage for this class.
         </div>
     </body>
     ```
-    # Then I start doing my own website, it is a brand website.
+
+    #### Then I start doing my own website, it is a brand website.
     At first I do the navigation bar, it will be 4 pages in my website.
+    
+    
     ```
+    
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
        <a class="navbar-brand" img src="https://designdough.co.uk/wp-content/uploads/2018/04/Supreme-logo-newyork-1920x1080.jpg" href="hw1.html">Supreme</a>
        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -93,6 +97,7 @@ First I do the homepage for this class.
      </nav>
     ```
    # Next I do the list and table.
+   
     ```
     div class="row">
          <div class="col-md-4">
@@ -149,7 +154,8 @@ First I do the homepage for this class.
     <div class="col-md-4">
         <img class="img-responsive" src="image/logo.jpg.jpg"  >
     </div>
-```
+    ```
+
 
 ```
 <div class="pagebackground">
