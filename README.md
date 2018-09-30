@@ -6,7 +6,7 @@ First I open the Git Bash and creat the floder, then I create your my repository
 ```bash
 mkdir klyu521.github.io
 cd klyu521.github.io
-echo "This is the repo for CS460" >> README.md
+echo "klyu521.github.io" >> README.md
 git init
 git confic --global user.name "klyu521"
 git config --global user.email "klyu16@wou.edu"
