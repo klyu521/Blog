@@ -3,7 +3,7 @@
 ### Step 1: Install Git, Create an account on Github, and create a repository for the class.
 First I open the Git Bash and creat the floder, then I create your my repository. And I Try to push the README.md to remote origin.
 
-```bash
+```
 mkdir klyu521.github.io
 cd klyu521.github.io
 echo "klyu521.github.io" >> README.md
@@ -20,7 +20,7 @@ git push -u origin master
 In this step I try to use Bootstrap, and I visit http://getbootstrap.com/ to learn how to use it.
 First I do the homepage for this class.
 
-```bash
+```
 <!DOCTYPE html>
 <!--my HOMEWORKS page. -->
 <html lang="en">
@@ -65,7 +65,7 @@ First I do the homepage for this class.
     ```
     # Then I start doing my own website, it is a brand website.
     At first I do the navigation bar, it will be 4 pages in my website.
-    ```bash
+    ```
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
        <a class="navbar-brand" img src="https://designdough.co.uk/wp-content/uploads/2018/04/Supreme-logo-newyork-1920x1080.jpg" href="hw1.html">Supreme</a>
        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -93,7 +93,7 @@ First I do the homepage for this class.
      </nav>
     ```
    # Next I do the list and table.
-    ```bash
+    ```
     div class="row">
          <div class="col-md-4">
              <dl>
@@ -151,7 +151,7 @@ First I do the homepage for this class.
     </div>
 ```
 
-```bash
+```
 <div class="pagebackground">
             <div class="container">
                 <div class="content">
